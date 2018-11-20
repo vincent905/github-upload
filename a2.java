@@ -1,3 +1,0 @@
-*.class
-*.sig
-change java
